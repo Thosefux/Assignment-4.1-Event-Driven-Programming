@@ -1,0 +1,79 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.spacingContainer {
+    width: 70%;
+    margin: auto;
+    padding-top: 250px;
+}
+
+.vert1 {
+    border-left: 6px solid rgb(252, 249, 249);
+    height: 666px;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+}
+
+.vert2 {
+    border-left: 6px solid rgb(252, 249, 249);
+    height: 666px;
+    position: absolute;
+    top: 35%;
+    left: 65%;
+}
+
+body {
+    background-image: url('sand.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 135vw 175vh;
+    background-position: center;
+    margin: 0;
+}
+
+h1 {
+    margin: 30px;
+    font-family: "Courier", cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 4.5rem;
+    color: #3ff807;
+    text-align: center;
+}
+
+.bottom {
+    padding-top: 30px;
+}
+
+img {
+    position: relative;
+    width: 20%;
+}
+
+.butn {
+    background: #035a0f;
+    font-family: "Courier", cursive;
+    border-radius: 7px;
+    color: #070807;
+    font-size: 30px;
+    padding: 16px 25px 16px 25px;
+    text-decoration: none;
+}
+
+.butn:hover {
+    background: #31e941;
+    text-decoration: none;
+}
+
+.disBut {
+    background: #9e9092;
+    font-family: "Courier", cursive;
+    border-radius: 7px;
+    color: #0b0f0b;
+    font-size: 30px;
+    padding: 16px 25px 16px 25px;
+    text-decoration: none;
+}
